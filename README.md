@@ -10,7 +10,7 @@
 
 - 	📜 Desenvolvedor Web Júnior
 - 🔭 Atualmente procurando minha primeira oportunidade como desenvolvedor web
-- 💬 Me pergunte sobre **JavaScript, HTML, CSS, Node.JS**
+- 💬 Me pergunte sobre **JavaScript, HTML, CSS, Node.JS, Laravel, Vue.JS, React.JS, Docker, PHP e Blade.**
 - 📫 Portfólio: [Em construção...](/)
 <br></br>
 
